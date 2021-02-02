@@ -1,9 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import Chameleon from "./Chameleon";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
+      <Chameleon />
     </div>
   );
 }
